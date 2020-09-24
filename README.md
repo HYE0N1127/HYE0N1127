@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm DGSW 5th, wanna be a Window Developer
 
 <!--
 **HYE0N1127/HYE0N1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HYE0N1127's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&show_icons=true)
