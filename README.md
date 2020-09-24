@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm DGSW 5th, wanna be a Window Developer
-
+[![HYEON1127's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127)](https://github.com/HYE0N1127/github-readme-stats)
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = HYE0N1127 & layout = compact )] (https://github.com/anuraghazra/github-readme)
 <!--
 **HYE0N1127/HYE0N1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![HYEON1127's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127)](https://github.com/HYE0N1127/github-readme-stats)
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = HYE0N1127 & layout = compact )] (https://github.com/anuraghazra/github-readme- 통계)
+
