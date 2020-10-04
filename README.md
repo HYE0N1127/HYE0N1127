@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm DGSW 5th, wanna be a Window Developer <br/>
 <br/>
-[![Hyeon-Bin's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127)](https://github.com/HYE0N1127/github-readme-stats)
+![Hyeon-Bin's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127&theme=tokyonight)
 <!--
 **HYE0N1127/HYE0N1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
