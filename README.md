@@ -7,6 +7,9 @@ I'm DGSW 5th, wanna be a Window Developer <br/>
 - C#
 - Java Script
 - WPF
+- 🌱 I’m want to learn ...
+- React.JS
+- Electron
 <!--
 **HYE0N1127/HYE0N1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
