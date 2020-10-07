@@ -3,11 +3,11 @@ I'm DGSW 5th, wanna be a Window Developer <br/>
 <br/>
 ![Hyeon-Bin's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127&theme=tokyonight)<br/>
-- 🔭 I’m currently learning ...
+### 🔭 I’m currently learning ...
 - C#
 - Java Script
 - WPF
-- 🌱 I’m want to learn ...
+### 🌱 I’m want to learn ...
 - React.JS
 - Electron
 <!--
