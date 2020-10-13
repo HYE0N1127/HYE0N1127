@@ -9,7 +9,7 @@ I'm 1st grade at DGSW and wanna be a MIDAS IT's Developer
 - WPF
 ### 🌱 I’m want to learn ...
 - React.JS
-- Electron.js
+- Electron.JS
 <!--
 **HYE0N1127/HYE0N1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
