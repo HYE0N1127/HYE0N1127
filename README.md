@@ -1,4 +1,4 @@
-### Hello 👋, I'm HyeonBin <br/>wanna be a MIDAS IT's Developer<br/>
+### Hello 👋, I'm HyeonBin <br/>
 ![Hyeon-Bin's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127&theme=tokyonight)<br/>
 ### 🔭 I’m currently learning ...
