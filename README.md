@@ -5,13 +5,14 @@
 
 ![Hyeon-Bin's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127&theme=tokyonight)<br/>
-### 🔭 I’m currently learning ...
+### 🔭 I’m can use ...
 - C#
-- Java Script
 - WPF
 ### 🌱 I’m want to learn ...
+- Java Script
 - React.JS
 - Electron.JS
+- Machine, Deep Learning
 <!--
 **HYE0N1127/HYE0N1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
