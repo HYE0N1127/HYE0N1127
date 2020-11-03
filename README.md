@@ -8,8 +8,8 @@
 ### 🔭 I’m can use ...
 - C#
 - WPF
-### 🌱 I’m want to learn ...
 - Java Script
+### 🌱 I’m want to learn ...
 - React.JS
 - Electron.JS
 - Machine, Deep Learning
