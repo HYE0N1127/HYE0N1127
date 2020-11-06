@@ -5,11 +5,11 @@
 
 ![Hyeon-Bin's github stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127&theme=tokyonight)<br/>
-### 🔭 I’m can use ...
+### 🔭 I can use ...
 - C#
 - WPF
 - Java Script
-### 🌱 I’m want to learn ...
+### 🌱 I want to learn ...
 - React.JS
 - Electron.JS
 - Machine, Deep Learning
