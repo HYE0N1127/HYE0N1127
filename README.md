@@ -1,4 +1,8 @@
-## Hello 👋, I'm HyeonBin <br/> <div>
+<div align=center>
+  <h1>
+  Hello 👋, I'm HyeonBin
+  </h1>
+</div>
   
  [![Facebook Badge](https://img.shields.io/badge/-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100014225790547)](https://www.facebook.com/profile.php?id=100014225790547)
 [![instagram ](https://img.shields.io/badge/-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyunbin1127/)](https://www.instagram.com/hyunbin1127/)
