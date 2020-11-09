@@ -1,6 +1,6 @@
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=200&section=header&&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
-  <h1>
+<div align=center>
+<h1>
     Welcome to my Github Profile :)
   </h1>
 
