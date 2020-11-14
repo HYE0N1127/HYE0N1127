@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 
 
 ## 📍 I’m currently working on
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=HYE0N1127&repo=ICT_CWS_Reader)](https://github.com/HYE0N1127/ICT_CWS_Reader)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=HYE0N1127&repo=ICT_CWS_Reader)](https://github.com/HYE0N1127/ICT_CWS_Reader) <br/>
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=dannyldj&repo=Shareboard_winapp)](https://github.com/dannyldj/Shareboard_winapp.git)
+
 
 
 ## 📖 I'm Currently learning
