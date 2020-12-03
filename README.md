@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ## 📍 I’m currently working on
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=dannyldj&repo=Shareboard_winapp)](https://github.com/dannyldj/Shareboard_winapp.git)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=HYE0N1127&repo=winapp)](https://github.com/HYE0N1127/winapp.git)
 
 
 
