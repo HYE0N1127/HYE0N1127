@@ -61,5 +61,3 @@ Here are some ideas to get you started:
 - Midas IT's Developer
 - AI Developer
 
-### 💬 TMI
-- Dec 14th ~ Dec 17th is Test day
