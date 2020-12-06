@@ -60,3 +60,6 @@ Here are some ideas to get you started:
 ### 📫 I Want to be
 - Midas IT's Developer
 - AI Developer
+
+### 💬 TMI
+- Dec 14th ~ Dec 17th is Test day
