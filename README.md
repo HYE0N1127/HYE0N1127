@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 - React.JS
 - Electron.JS
 - Machine, Deep Learning
+- C++
+- MFC
 
 ### 📫 I Want to be
 - Midas IT's Developer
