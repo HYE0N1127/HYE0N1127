@@ -47,17 +47,16 @@ Here are some ideas to get you started:
 - C#
 - WPF
 - Theory of MVVM
+- Vanila JavaScript
 
 ## 🔭 I learned
 - C
-- Vanila JavaScript (a little)
+
 
 ### 🌱 I want to learn
 - React.JS
 - Electron.JS
 - Machine, Deep Learning
-- C++
-- MFC
 
 ### 📫 I Want to be
 - Midas IT's Developer
