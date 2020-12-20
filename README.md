@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 
 ## 🔭 I learned
 - C
-
+- JavaScript
+- C#
+- WPF
 
 ### 🌱 I want to learn
 - React.JS
