@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 
 
 ## 📍 I’m currently working on
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=HYE0N1127&repo=winapp)](https://github.com/HYE0N1127/winapp.git)
-
-
+- DGSW, FROM 2020
+- B1ND, Smart School Platform Development Team
 
 ## 📖 I'm Currently learning
 - C#
