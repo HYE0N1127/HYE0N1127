@@ -47,12 +47,10 @@ Here are some ideas to get you started:
 - WPF
 - Theory of MVVM
 - Vanila JavaScript
+- Python
 
 ## 🔭 I learned
 - C
-- JavaScript
-- C#
-- WPF
 
 ### 🌱 I want to learn
 - React.JS
