@@ -7,7 +7,7 @@
 
  [![Facebook Badge](https://img.shields.io/badge/-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100014225790547)](https://www.facebook.com/profile.php?id=100014225790547)
 [![Gmail Badge](https://img.shields.io/badge/gusbin1127@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusbin1127@gmail.com)](mailto:gusbin1127@gmail.com)
-[![instagram ](https://img.shields.io/badge/-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyunbin1127/)](https://www.instagram.com/hyunbin1127/)
+[![instagram ](https://img.shields.io/badge/-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/h_biin1127__/)](https://www.instagram.com/h_biin1127__/)
 
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
