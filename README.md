@@ -45,14 +45,14 @@ Here are some ideas to get you started:
 - C#
 - WPF
 - Theory of MVVM
-- Vanila JavaScript
 - Python
+- React.JS
 
 ## 🔭 I learned
 - C
+- Vanilla Javascript
 
 ### 🌱 I want to learn
-- React.JS
 - Electron.JS
 - Machine, Deep Learning
 
