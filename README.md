@@ -55,8 +55,3 @@ Here are some ideas to get you started:
 ### 🌱 I want to learn
 - Electron.JS
 - Machine, Deep Learning
-
-### 📫 I Want to be
-- Midas IT's Developer
-- AI Developer
-
