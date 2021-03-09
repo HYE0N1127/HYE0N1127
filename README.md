@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 - Theory of MVVM
 - Python
 - React.JS
+- Kotlin
 
 ## 🔭 I learned
 - C
