@@ -49,10 +49,3 @@ Here are some ideas to get you started:
 - React.JS
 - Kotlin
 
-## 🔭 I learned
-- C
-- Vanilla Javascript
-
-### 🌱 I want to learn
-- Electron.JS
-- Machine, Deep Learning
