@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 💻 Stats
 ![HYE0N1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYE0N1127&show_icons=true&count_private=true)  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYE0N1127&hide=css,html)](https://github.com/HYE0N1127/github-readme-stats)
 
 ## 📍 I’m currently working on
 - DGSW, FROM 2020
